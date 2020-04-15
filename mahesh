@@ -2,3 +2,5 @@ https://gist.githubusercontent.com/anujdevopslearn/8395705058c9cd4f4f5c3fec5591b
 ansible-playbook apache.yml
 service apache2 stat
 
+https://gist.githubusercontent.com/anujdevopslearn/98a73c0ef7f72a70fc11759f8b2b9c25/raw/344bd206c7dbadfd56f32dc755c06e450c9b0d0f/mysql.yml
+
